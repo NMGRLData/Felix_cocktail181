@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 0.0, 
+    "commit": "a0ab0abf6d86f963266f9c0167d6e83e2d099dfc", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 0.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "YidceGFjXHg5Nlx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBuIzxceDAwXHgwMFx4ZmFET1x4Y2ZceDAwQFx4MDBceDAwXHhmYURceDgzeVx4ODBAXHgwMFx4MDBceGZhRFx4ZDJceGE3XHhjMEBceDAwXHgwMFx4ZmFEPFhceDAwQVx4MDBceDAwXHhmYUQ4ViBBXHgwMFx4MDBceGZhRFx4MDBaQEFceDAwXHgwMFx4ZmFEV2NgQVx4MDBceDAwXHhmYURceDBjOVx4ODBBXHgwMFx4MDBceGZhRFx4ZDJBXHg5MEFceDAwXHgwMFx4ZmFEXHg5YkBceGEwQVx4MDBceDAwXHhmYURceDFkP1x4YjBBXHgwMFx4MDBceGZhRFx4YTBAXHhjMEFceDAwXHgwMFx4ZmFEO0xceGQwQVx4MDBceDAwXHhmYURFTVx4ZTBBXHgwMFx4MDBceGZhRFxuTlx4ZjBBXHgwMFx4MDBceGZhRFcpXHgwMEJceDAwXHgwMFx4ZmFEXHg4MSxceDA4Qlx4MDBceDAwXHhmYURceGU5LFx4MTBCXHgwMFx4MDBceGZhRDUyXHgxOEJceDAwXHgwMFx4ZmFEXHg4MTUgQlx4MDBceDAwXHhmYURceGQzOihCXHgwMFx4MDBceGZhRH08MEJceDAwXHgwMFx4ZmFEJw==", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "YidceGFjXHg5Nlx4YjZOXHgwMFx4MDBceDAwXHgwMFx4MDBuIzxceGE5XHhiMFx4ZTVBT1x4Y2ZceDAwQFx4MDBceDAwXHgwMFx4MDBceDgzeVx4ODBAXHgwMFx4MDBceDAwXHgwMFx4ZDJceGE3XHhjMEBceDAwXHgwMFx4MDBceDAwPFhceDAwQVx4ZDFceDAzXHgwOEI4ViBBXHhkMVx4MDNceDA4Qlx4MDBaQEFceGQxXHgwM1x4MDhCV2NgQVx4ZDFceDAzXHgwOEJceDBjOVx4ODBBXHhkMVx4MDNceDA4Qlx4ZDJBXHg5MEFceGQxXHgwM1x4MDhCXHg5YkBceGEwQVx4ZDFceDAzXHgwOEJceDFkP1x4YjBBXHhkMVx4MDNceDA4Qlx4YTBAXHhjMEFceGQxXHgwM1x4MDhCO0xceGQwQVx4ZDFceDAzXHgwOEJFTVx4ZTBBXHhkMVx4MDNceDA4QlxuTlx4ZjBBXHhkMVx4MDNceDA4QlcpXHgwMEJceGQxXHgwM1x4MDhCXHg4MSxceDA4Qlx4ZDFceDAzXHgwOEJceGU5LFx4MTBCXHhkMVx4MDNceDA4QjUyXHgxOEJceGQxXHgwM1x4MDhCXHg4MTUgQlx4ZDFceDAzXHgwOEJceGQzOihCXHhkMVx4MDNceDA4Qn08MEJceGQxXHgwM1x4MDhCJw==", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "9-hole", 
+    "videos": [], 
+    "weight": 8.08
+}
