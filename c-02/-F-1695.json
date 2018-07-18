@@ -1,0 +1,151 @@
+{
+    "acquisition_software": "Pychron17.7(Exp0.2,DVC0.1)", 
+    "aliquot": 1695, 
+    "analysis_type": "cocktail", 
+    "analyst_name": "MHeizler", 
+    "comment": "", 
+    "commit": "a0ab0abf6d86f963266f9c0167d6e83e2d099dfc", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -7398803934203552140, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron17.7(DVC0.1)", 
+    "detectors": {
+        "AX": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Hum.", 
+                "pub_date": "2018-07-18T14:05:11", 
+                "title": "iServer Hum.", 
+                "value": 47.4
+            }
+        ], 
+        "lab_pneumatics": [
+            {
+                "device": "AirPressure", 
+                "name": "Pressure", 
+                "pub_date": "2018-07-18T14:12:01", 
+                "title": "Building", 
+                "value": 97.8
+            }, 
+            {
+                "device": "AirPressure2", 
+                "name": "Pressure2", 
+                "pub_date": "2018-07-18T13:39:40", 
+                "title": "Lab", 
+                "value": 87.8
+            }, 
+            {
+                "device": "MicroBoneGaugeController", 
+                "name": "JanDecabinPressure", 
+                "pub_date": "2018-07-18T14:07:28", 
+                "title": "Jan Decabin", 
+                "value": 5.1
+            }
+        ], 
+        "lab_temperatures": [
+            {
+                "device": "Coldfinger", 
+                "name": "ColdFinger Temp.", 
+                "pub_date": "2018-07-18T14:14:17", 
+                "title": "Cold Finger", 
+                "value": -196.0
+            }, 
+            {
+                "device": "EnvironmentalMonitor", 
+                "name": "Lab Temp.", 
+                "pub_date": "2018-07-18T13:28:49", 
+                "title": "iServer Temp.", 
+                "value": 73.9
+            }, 
+            {
+                "device": "Chiller", 
+                "name": "Coolant Temp.", 
+                "pub_date": "2018-07-18T13:40:27", 
+                "title": "Coolant", 
+                "value": 16.0
+            }
+        ]
+    }, 
+    "experiment_queue_name": "CurrentExperiment", 
+    "extraction": "felix_cocktail_x3.py", 
+    "identifier": "c-02-F", 
+    "increment": null, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "Cocktail-02", 
+    "irradiation_level": "A", 
+    "irradiation_position": 1, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)", 
+            "name": "Ar36"
+        }, 
+        "Ar37": {
+            "detector": "L1", 
+            "name": "Ar37"
+        }, 
+        "Ar38": {
+            "detector": "AX", 
+            "name": "Ar38"
+        }, 
+        "Ar39": {
+            "detector": "H1", 
+            "name": "Ar39"
+        }, 
+        "Ar40": {
+            "detector": "H2", 
+            "name": "Ar40"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "Gas", 
+    "measurement": "felix_analysis340_60_CDD_center.py", 
+    "post_equilibration": "felix_pump_extraction_line.py", 
+    "post_measurement": "felix_pump_ms.py", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Felix_cocktail181", 
+    "sample": "cocktail", 
+    "source": {
+        "emission": 843.646, 
+        "trap": 248.719
+    }, 
+    "spec_sha": "6a9b4615cd24138b6ce541f75240dc4091378bb1", 
+    "timestamp": "2018-07-18T14:17:44.253662", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "7c45af68-0e64-453c-8f10-22ea83b44d26", 
+    "whiff_result": null
+}
