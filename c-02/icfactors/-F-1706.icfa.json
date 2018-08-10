@@ -24,19 +24,9 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.006823625799178275,
-        "fit": "Weighted Mean",
+        "error": 0.0011283100624525496,
+        "fit": "Bracketing Interpolate",
         "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-02-F-1247",
-                "uuid": "a808175d-b43d-4e02-9b28-f559f6a21678"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-F-1248",
-                "uuid": "dbd979d8-2d0d-45a0-82a4-eaa695cfd02e"
-            },
             {
                 "exclude": "ok",
                 "record_id": "a-02-F-1249",
@@ -114,6 +104,6 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0189708224535632
+        "value": 1.0146663552871436
     }
 }
