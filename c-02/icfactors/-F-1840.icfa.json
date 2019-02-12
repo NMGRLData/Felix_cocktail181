@@ -24,9 +24,66 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 1e-20,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0029930242372091334,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "omit",
+                "record_id": "a-02-F-1423",
+                "uuid": "d60bac48-82b4-4f05-8a64-6a8e6f334778"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-02-F-1424",
+                "uuid": "2693b63d-0510-45b9-9f95-ace30a17c65b"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-02-F-1425",
+                "uuid": "c40d5449-07cb-49d8-bf47-68cb03045177"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1426",
+                "uuid": "b2abc790-4b65-43ab-a239-7b27ba6cb6c8"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1427",
+                "uuid": "76f6c9bb-265a-4069-9b21-177187a2c1ff"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1428",
+                "uuid": "a6747e75-12c3-44b4-b334-a8dcc2c84cb9"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1429",
+                "uuid": "8e04475c-9704-45ec-bb98-143844521420"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1430",
+                "uuid": "d2f0004b-044e-47d8-b2ee-8b4d767ed3e1"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1431",
+                "uuid": "aac877c4-c6f2-48af-8e78-29bb1dcb9be3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1432",
+                "uuid": "7b4282bf-da80-4fe9-8c2d-2e660653cbb3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-F-1433",
+                "uuid": "716b8d7e-f111-49e8-8023-904c74af1b5b"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0292954413914697
     }
 }
